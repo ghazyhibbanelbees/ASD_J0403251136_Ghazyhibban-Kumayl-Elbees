@@ -1,0 +1,10 @@
+B001,Buku Tulis,50
+B002,Pensil 2B,100
+B003,Penghapus,30
+B004,Penggaris 30cm,25
+B005,Spidol Hitam,15
+B006,Kertas A4,200
+B007,Rautan Pensil,40
+B008,Map Cokelat,60
+B009,Lem Kertas,12
+B010,Gunting Kecil,8
